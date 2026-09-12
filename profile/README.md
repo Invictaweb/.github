@@ -1,12 +1,22 @@
-## Hi there 👋
+# Invictaweb
 
-<!--
+Desenvolvemos software sob medida para os setores público e privado, com foco em sistemas de gestão robustos e plataformas de e-commerce.
 
-**Here are some ideas to get you started:**
+## 🚀 Projetos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### GovSuite
+Sistema de gestão para órgãos públicos e prefeituras, cobrindo processos administrativos, protocolos e serviços ao cidadão.
+
+### Educacional
+Plataforma de gestão escolar para redes municipais de ensino: matrículas, turmas, diário de classe, avaliações (incluindo módulos SAEB de diagnóstico e desempenho de alunos) e comunicação entre escola, professores e gestores.
+
+### FastLingerie
+Plataforma de e-commerce para o segmento de moda íntima, com catálogo de produtos, carrinho, checkout e gestão de pedidos.
+
+## 🛠️ Stack
+
+Nossos projetos são construídos principalmente em PHP (CodeIgniter), com integrações em Node.js e infraestrutura em nuvem (AWS/EC2).
+
+## 📫 Contato
+
+📧 atendimento@invictaweb.com.br
