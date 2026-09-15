@@ -32,4 +32,8 @@ Plataforma de e-commerce para o segmento de moda íntima, com catálogo de produ
 
 ## 📫 Contato
 
-📧 atendimento@invictaweb.com.br
+<p align="left">
+  <a href="mailto:atendimento@invictaweb.com.br">
+    <img alt="E-mail" src="https://img.shields.io/badge/Email-atendimento%40invictaweb.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
